@@ -60,8 +60,6 @@ a{
 footer p{
     margin: 80px;
 }
-.option{
-}
 
 @media all and (max-width:1000px){
     .main-wrapper img{
